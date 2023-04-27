@@ -1,9 +1,9 @@
-# esusab-kubernetes
+# esus-kubernetes
 Projeto de Infraestrutura sob kubernetes para o e-SUS
 
 ## O que é
 
-O esusab-kubernetes é o projeto disponibilizado para provisionamento de ambientes do e-SUS usando a tecnologia Rancher Desktop e kubernetes.
+O esus-kubernetes é o projeto disponibilizado para provisionamento de ambientes do e-SUS usando a tecnologia Rancher Desktop e kubernetes.
 
 
 ### Rancher Desktop
